@@ -1,21 +1,23 @@
 # Project 02 — SOC 2 Readiness Assessment
 
+🔗 **[View Live Notion Project](https://tidal-selenium-6c0.notion.site/02-SOC-2-Readiness-Assessment-3c20f571c65480849921de0572f56344)**
+
 ## Overview
 
-A mock SOC 2 readiness assessment conducted for a fictional company, MedCloud Solutions.
+A mock SOC 2 readiness assessment conducted for **MedCloud Solutions**, a fictional healthcare SaaS company.
 
-The project evaluates selected Trust Services Criteria and identifies control, evidence, and operational gaps.
+The assessment evaluates selected SOC 2 Trust Services Criteria and identifies control, evidence, risk, and remediation gaps.
 
-> This is a fictional assessment created for learning and portfolio purposes. It is not an actual SOC 2 audit or attestation.
+> **Disclaimer:** This is a fictional assessment created for learning and portfolio purposes. It is not an actual SOC 2 audit, certification, or attestation.
 
 ## Objectives
 
 - Assess selected SOC 2 controls
 - Identify control and evidence gaps
-- Evaluate risk associated with findings
+- Evaluate risks associated with findings
 - Recommend remediation actions
-- Track remediation ownership and priorities
-- Prepare an executive-level management summary
+- Assign remediation ownership and priorities
+- Prepare an executive management summary
 
 ## Assessment Areas
 
@@ -33,7 +35,7 @@ Documents:
 - Control requirements
 - Control area
 - Current state
-- Evidence required
+- Required evidence
 - Identified gaps
 - Risk
 - Priority
@@ -42,11 +44,11 @@ Documents:
 
 ### 2. Evidence Tracker
 
-Tracks the evidence required to support control effectiveness and audit readiness.
+Tracks evidence required to support control implementation and readiness assessment.
 
 ### 3. Gap Assessment
 
-Documents identified control weaknesses and missing evidence.
+Documents identified control weaknesses, missing evidence, associated risks, and recommended actions.
 
 ### 4. Remediation Tracker
 
@@ -54,7 +56,7 @@ Tracks:
 
 - Remediation action
 - Control ID
-- Gap
+- Identified gap
 - Owner
 - Priority
 - Status
@@ -63,15 +65,21 @@ Tracks:
 
 ### 5. Management Summary
 
-Provides an executive-level overview of the assessment, major findings, risks, and recommended priorities.
+Provides an executive-level summary of:
+
+- Overall readiness
+- Key findings
+- High-risk areas
+- Priority remediation actions
+- Recommended next steps
 
 ### 6. Dashboard
 
-Provides a visual overview of the assessment, including risk distribution and control status.
+Provides a visual summary of the assessment, including risk distribution and control status.
 
 ## Key Findings
 
-The mock assessment identified 12 control gaps.
+The mock assessment identified **12 control gaps**.
 
 Priority areas include:
 
@@ -80,7 +88,7 @@ Priority areas include:
 - User offboarding
 - Security monitoring
 - Incident response
-- Backup recovery testing
+- Backup and recovery testing
 - Data classification
 - Privacy data inventory
 
@@ -101,6 +109,13 @@ Priority areas include:
 - Notion
 - GitHub
 
-## Disclaimer
+## Project Structure
 
-This project is a fictional GRC portfolio project created to demonstrate practical understanding of SOC 2 readiness assessment concepts. It does not represent an actual audit, certification, or attestation.
+```text
+02-SOC2-Readiness/
+│
+├── Control-Matrix/
+├── Documentation/
+├── Evidence-Tracker/
+├── Gap-Assessment/
+└── README.md
