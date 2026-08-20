@@ -1,11 +1,12 @@
-  # GRC Projects Portfolio
+# GRC Projects Portfolio
 
-A portfolio of Governance, Risk and Compliance (GRC) projects demonstrating practical skills in risk assessment, compliance readiness, control assessment, security auditing, and incident response.
+A practical Governance, Risk and Compliance (GRC) portfolio demonstrating risk assessment, control assessment, compliance readiness, security governance, and incident response.
 
 ## Projects
 
 ### 01 — Information Security Risk Assessment
-Mock risk assessment for a fictional healthcare SaaS organization.
+
+Mock GRC risk assessment for a fictional healthcare SaaS organization, MedCloud Solutions.
 
 **Skills demonstrated:**
 - Risk identification
@@ -17,15 +18,19 @@ Mock risk assessment for a fictional healthcare SaaS organization.
 - Remediation tracking
 
 ### 02 — SOC 2 Readiness Assessment
+
 Mock SOC 2 readiness and gap assessment.
 
 ### 03 — CIS Controls Assessment
-Mapping CIS Controls to operational security risks and remediation activities.
+
+Assessment and mapping of security controls against CIS Controls.
 
 ### 04 — SaaS Security Assessment
-Assessment of publicly available security information from a SaaS provider.
+
+Security assessment of a fictional SaaS environment, including risks, controls, and recommendations.
 
 ### 05 — Incident Response Playbook
+
 Incident response procedures for common cybersecurity scenarios.
 
 ## Tools
@@ -38,4 +43,4 @@ Incident response procedures for common cybersecurity scenarios.
 
 ## Disclaimer
 
-These projects are fictional or educational portfolio projects and are not official audits, certifications, or assessments of real organizations.
+These are fictional educational portfolio projects created to demonstrate GRC knowledge and practical skills. They are not official audits, certifications, or assessments of real organizations.
